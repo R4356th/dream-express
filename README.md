@@ -1,2 +1,2 @@
 # dream-express
-A NPM package that lets you add your dreams to an array. 
+A NPM package that lets you add items to an array. 
